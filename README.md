@@ -1,6 +1,6 @@
 # AI Stock Trading Bot Application
 
-This project is a Python-based application utilizing the Lumibot framework to implement a sentiment-driven trading strategy. It integrates advanced natural language processing (NLP) techniques, specifically the FinBERT model, to analyze financial news sentiment and make informed trading decisions based on predefined criteria. The application aims to capitalize on market movements influenced by public sentiment towards specific stocks, providing a unique approach to algorithmic trading.
+This Python project uses the Lumibot framework to run a trading strategy based on news sentiment. It applies the FinBERT model to analyze financial news and make trades based on how the market feels about certain stocks. The goal is to profit from price movements driven by public sentiment.
 
 ## Features
 
